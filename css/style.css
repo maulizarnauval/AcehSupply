@@ -197,9 +197,9 @@ h1, h2, h3, h4, h5, h6, p{
 .chef-icons span{
     background: var(--dark);
     margin: 0.5rem;
-    width: 55px;
-    height: 55px;
-    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    border-radius: 40%;
     font-size: 1.3rem;
     display: flex;
     justify-content: center;
